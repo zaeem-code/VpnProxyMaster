@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"
+        android:id="@+id/menu_up">
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/sharewith"
+            android:title="Share App"
+            android:checkable="false"
+            />
+
+        <item
+            android:id="@+id/about_me"
+            android:checkable="false"
+
+            android:icon="@drawable/sharewith"
+            android:title="About Us" />
+
+        <item
+            android:id="@+id/privacypolicy"
+            android:icon="@drawable/sharewith"
+            android:checkable="false"
+
+            android:title="Privacy Policy" />
+
+        <item
+            android:id="@+id/rate_us"
+            android:icon="@drawable/sharewith"
+            android:checkable="false"
+
+            android:title="Rate Us" />
+
+        <item
+            android:id="@+id/moreapp"
+            android:icon="@drawable/sharewith"
+            android:checkable="false"
+
+            android:title="More Apps" />
+
+    </group>
+
+
+</menu>

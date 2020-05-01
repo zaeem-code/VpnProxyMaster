@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E32FA</color>
+    <color name="colorPrimaryDark">@color/colorPrimary</color>
+    <color name="colorAccent">@color/colorPrimary</color>
+
+    <color name="dot_dark">#D4B7E3</color>
+
+
+    <color name="listDivider">#1E32FA</color>
+
+    <color name="buttonText">#BDC9CF</color>
+    <color name="activeServer">#BDC9CF</color>
+    <color name="additionalServer">#1E32FA</color>
+    <color name="textInputLayout">#fff</color>
+
+    <color name="default_color">#1E32FA</color>
+    <color name="colorwhite">#ffffff</color>
+    <color name="colorview">#32000000</color>
+
+
+
+
+    <color name="offwhite">#FDFDF3</color>
+    <color name="shadow">#20000000</color>
+</resources>
