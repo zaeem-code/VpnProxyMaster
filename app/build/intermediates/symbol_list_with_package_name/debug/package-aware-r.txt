@@ -1013,6 +1013,7 @@ color background_floating_material_dark
 color background_floating_material_light
 color background_material_dark
 color background_material_light
+color black
 color bright_foreground_disabled_material_dark
 color bright_foreground_disabled_material_light
 color bright_foreground_inverse_material_dark
@@ -2453,6 +2454,7 @@ drawable common_google_signin_btn_text_light_normal_background
 drawable confusing_shape
 drawable connectbtn
 drawable connection
+drawable contactus
 drawable corner
 drawable cr
 drawable cu
@@ -2592,6 +2594,7 @@ drawable lc
 drawable li
 drawable lk
 drawable location
+drawable logo
 drawable logovpn
 drawable lr
 drawable ls
@@ -2684,6 +2687,7 @@ drawable pt
 drawable pw
 drawable py
 drawable qa
+drawable rate
 drawable resolve_button_selector
 drawable rkix_logo
 drawable ro
@@ -2696,9 +2700,12 @@ drawable sb
 drawable sc
 drawable sd
 drawable se
+drawable serverpng
 drawable session_pro
+drawable setting
 drawable sg
 drawable sh
+drawable share
 drawable sharewith
 drawable si
 drawable signal_pro
@@ -2783,6 +2790,9 @@ id Text
 id Top
 id Value
 id about_me
+id abtimg
+id abtlyt
+id abttxt
 id accessibility_action_clickable_span
 id accessibility_custom_action_0
 id accessibility_custom_action_1
@@ -2835,7 +2845,6 @@ id action_menu_presenter
 id action_mode_bar
 id action_mode_bar_stub
 id action_mode_close_button
-id action_settings
 id action_text
 id actions
 id active
@@ -2866,6 +2875,7 @@ id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
 id buttonPanel
+id button_listen_from
 id cancel_action
 id cancel_button
 id center
@@ -2891,6 +2901,9 @@ id collapseActionView
 id commentsText
 id confirm_button
 id connect
+id contactusimg
+id contactuslyt
+id contactustxt
 id container
 id content
 id contentPanel
@@ -3071,6 +3084,9 @@ id progress_circular
 id progress_horizontal
 id radio
 id rate_us
+id rateimg
+id ratelyt
+id ratetxt
 id rectangle
 id rectxt
 id relativelayout1
@@ -3112,6 +3128,12 @@ id serverStatus
 id serverTrafficInTotally
 id serverTrafficOutTotally
 id serveropen
+id settingimg
+id settinglyt
+id settingtxt
+id shareimg
+id sharelyt
+id sharetxt
 id shortcut
 id showCustom
 id showHome
@@ -3283,7 +3305,9 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout about
+layout activity_about2
 layout activity_base
+layout activity_cnt
 layout activity_main
 layout activity_server_list
 layout activity_settings
@@ -3363,6 +3387,7 @@ layout mtrl_picker_header_toggle
 layout mtrl_picker_text_input_date
 layout mtrl_picker_text_input_date_range
 layout nav_header
+layout nav_header_activity_one_nav
 layout notification_action
 layout notification_action_tombstone
 layout notification_media_action
@@ -3408,8 +3433,20 @@ mipmap ic_pie_bg
 mipmap ic_rounded_shadow
 mipmap waves
 plurals mtrl_badge_content_description
+raw book
+raw colorline
+raw contact_us
 raw earch_processing
+raw email_us
+raw home
+raw loading
 raw notification
+raw settings
+raw share
+raw theme
+raw vpn
+raw whatsapp
+raw world
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description

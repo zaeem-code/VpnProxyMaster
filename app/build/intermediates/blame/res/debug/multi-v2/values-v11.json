@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "E:\\app 2020\\VpnProxyMaster\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "outputFile": "C:\\Users\\hassan\\Desktop\\Android_projects\\VpnProxyMaster\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\laptop\\.gradle\\caches\\transforms-2\\files-2.1\\a8cf6f91a0b54059e366cf46d1983233\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
+                    "source": "C:\\Users\\hassan\\.gradle\\caches\\transforms-2\\files-2.1\\e5f17e4bd7e202da60612a406c8fc6c3\\jetified-core-0.9.6.0\\res\\values-v11\\values-v11.xml",
                     "from": {
                         "startLines": "2,19",
                         "startColumns": "4,4",

@@ -32,6 +32,8 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
         <activity android:name=".activity.ServerListActivity"></activity>
+        <activity android:name=".activity.contactus"></activity>
+        <activity android:name=".activity.about"/>
         <activity
             android:name=".activity.SplashActivity"
             android:noHistory="true"

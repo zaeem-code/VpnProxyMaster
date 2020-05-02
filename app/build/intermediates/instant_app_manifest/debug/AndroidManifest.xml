@@ -41,6 +41,8 @@
         android:testOnly="true"
         android:theme="@style/AppTheme" >
         <activity android:name="com.vpn.technology.activity.ServerListActivity" />
+        <activity android:name="com.vpn.technology.activity.contactus" />
+        <activity android:name="com.vpn.technology.activity.about" />
         <activity
             android:name="com.vpn.technology.activity.SplashActivity"
             android:noHistory="true"

@@ -21,7 +21,7 @@
             android:visibility="gone"
             app:contentInsetStart="10dp"
             app:titleMarginStart="20dp"
-       
+
             />
 
         <FrameLayout

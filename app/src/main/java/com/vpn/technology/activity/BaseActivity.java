@@ -54,11 +54,11 @@ public abstract class BaseActivity extends AppCompatActivity {
     {
 
         fullLayout = (DrawerLayout) getLayoutInflater().inflate(R.layout.activity_base, null);
-        FrameLayout activityContainer = (FrameLayout) fullLayout.findViewById(R.id.activity_content);
+        FrameLayout activityContainer = fullLayout.findViewById(R.id.activity_content);
         getLayoutInflater().inflate(layoutResID, activityContainer, true);
         super.setContentView(fullLayout);
 
-        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        toolbar = findViewById(R.id.toolbar);
 
         if (useToolbar()) {
             setSupportActionBar(toolbar);
@@ -149,10 +149,7 @@ public abstract class BaseActivity extends AppCompatActivity {
                     startActivity(new Intent(this, VPNInfoActivity.class));
                 return true;
 
-            case R.id.action_settings:
-                sendTouchButton("Settings");
-                startActivity(new Intent(this, SettingsActivity.class));
-                return true;
+
 
             case R.id.serveropen:
 

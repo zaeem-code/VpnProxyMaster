@@ -26,7 +26,42 @@
                 android:background="?attr/colorPrimary"
                 android:visibility="visible"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
-                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
+                app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" >
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent">
+                    <LinearLayout
+                        android:layout_width="100dp"
+                        android:layout_height="60dp"
+
+                        android:layout_marginLeft="60dp"
+                        android:orientation="vertical"
+                        android:weightSum="1">
+                        <com.airbnb.lottie.LottieAnimationView
+                            app:lottie_colorFilter="@android:color/white"
+                            app:lottie_autoPlay="true"
+                            app:lottie_loop="true"
+                            app:lottie_rawRes="@raw/home"
+                            android:layout_width="match_parent"
+                            tools:ignore="ContentDescription"
+                            android:layout_height="0dp"
+                            android:layout_weight=".7"/>
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="0dp"
+                            android:textSize="10sp"
+                            android:textColor="@android:color/white"
+                            android:textStyle="bold"
+                            android:layout_weight=".3"
+                            android:gravity="bottom|center_horizontal"
+                            android:text="HOME"/>
+                    </LinearLayout>
+
+
+                </RelativeLayout>
+            </androidx.appcompat.widget.Toolbar>
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -133,13 +168,17 @@
         android:layout_height="match_parent"
         android:layout_gravity="start"
         android:fitsSystemWindows="true"
-        android:visibility="visible"
-        app:headerLayout="@layout/nav_header"
-        app:menu="@menu/activity_drawer"
-        app:itemIconTint="@color/default_color"
+        app:itemIconSize="33dp"
 
-        />
+        android:showAsAction="collapseActionView"
 
+        >
+
+        <include
+            layout="@layout/nav_header_activity_one_nav"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </com.google.android.material.navigation.NavigationView>
 
 
 

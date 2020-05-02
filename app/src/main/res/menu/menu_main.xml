@@ -21,19 +21,13 @@
     <item
 
         android:id="@+id/serveropen"
-        android:icon="@drawable/ic_settings_white_24dp"
+
+        android:icon="@drawable/serverpng"
         android:orderInCategory="101"
         android:title="@string/action_settings"
         app:showAsAction="always" />
 
 
-
-    <item
-        android:id="@+id/action_settings"
-        android:icon="@drawable/ic_settings_white_24dp"
-        android:orderInCategory="101"
-        android:title="@string/action_settings"
-        app:showAsAction="always" />
 
 
 </menu>

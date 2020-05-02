@@ -14,12 +14,12 @@
 
 
     <TextView
-
-        android:layout_marginTop="10dp"
+android:layout_marginVertical="10dp"
         android:layout_width="match_parent"
         android:layout_height="30dp"
         android:text="Recently Selected Server"
         android:textStyle="bold"
+        android:textSize="15sp"
         android:id="@+id/rectxt"
         android:textColor="@android:color/white"
         android:gravity="center"
@@ -27,14 +27,16 @@
 
     <include
         android:id="@+id/inc"
+
         layout="@layout/home_vpn_row"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_below="@+id/rectxt"
-        android:layout_marginHorizontal="3dp"
-        android:layout_marginTop="0dp" />
+        android:layout_marginHorizontal="10dp"
+        android:layout_marginTop="2dp" />
 
     <TextView
+        android:layout_marginVertical="10dp"
         android:layout_width="match_parent"
         android:layout_height="30dp"
         android:text="Select Server"
@@ -51,28 +53,17 @@
         />
 
 
-    <androidx.cardview.widget.CardView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:layout_centerHorizontal="true"
-        android:layout_below="@id/title"
-        android:layout_margin="8sp"
-        android:visibility="visible">
 
-
-        <LinearLayout
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:orientation="vertical"
-
-            >
 
 
             <ListView
+                android:layout_centerHorizontal="true"
+                android:layout_below="@id/title"
                 android:id="@+id/homeCountryList"
                 android:layout_width="match_parent"
-                android:layout_height="wrap_content"
+                android:layout_height="match_parent"
                 android:dividerHeight="1dp"
+                android:layout_margin="3dp"
                 android:paddingLeft="@dimen/activity_horizontal_margin"
                 android:paddingTop="@dimen/activity_vertical_margin"
                 android:paddingRight="@dimen/activity_horizontal_margin"
@@ -82,10 +73,6 @@
                 />
 
 
-        </LinearLayout>
-
-
-    </androidx.cardview.widget.CardView>
 
 
 
