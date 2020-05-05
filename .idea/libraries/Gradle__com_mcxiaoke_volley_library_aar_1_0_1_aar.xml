@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.mcxiaoke.volley:library-aar:1.0.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3747e3f328dabdc8274a37421ecca19/jetified-library-aar-1.0.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f3747e3f328dabdc8274a37421ecca19/jetified-library-aar-1.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4ed549b2c1503d76a59a7f6929e358a/jetified-library-aar-1.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4ed549b2c1503d76a59a7f6929e358a/jetified-library-aar-1.0.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library-aar/1.0.1/85e712b7063e21664fde75dd2ec67859b762d8bc/library-aar-1.0.1-javadoc.jar!/" />

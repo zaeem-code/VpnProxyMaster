@@ -60,7 +60,7 @@
                     android:layout_alignTop="@+id/serverFlag"
                     android:layout_alignParentEnd="true"
                     android:layout_alignParentRight="true"
-                    android:layout_marginTop="-9dp"
+                    android:layout_marginTop="15dp"
                     android:layout_marginEnd="17dp"
                     android:layout_marginRight="17dp"
                     android:orientation="vertical">
@@ -79,21 +79,27 @@
                         android:id="@+id/serverStatus"
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:layout_marginTop="5dp"
+                        android:layout_marginTop="7dp"
                         android:text="Connection Since : 5 hours"
                         android:textAllCaps="false"
                         android:textColor="#000"
                         android:textSize="12sp" />
 
-                    <TextView
-                        android:id="@+id/homeBtnChooseCountry"
-                        android:layout_width="130dp"
-                        android:layout_height="35dp"
-                        android:layout_marginTop="20dp"
-                        android:background="@drawable/button_bg"
-                        android:gravity="center"
-                        android:text="Choose Servers"
-                        android:textColor="@color/common_google_signin_btn_text_dark_default" />
+<!--                    <TextView-->
+<!--                        android:id="@+id/homeBtnChooseCountry"-->
+<!--                        android:layout_width="130dp"-->
+<!--                        android:layout_height="35dp"-->
+<!--                        android:layout_marginTop="20dp"-->
+<!--                        android:background="@drawable/button_bg"-->
+<!--                        android:gravity="center"-->
+<!--                        android:text="Choose Servers"-->
+<!--                        android:textColor="@color/common_google_signin_btn_text_dark_default" />-->
+
+
+
+
+
+
 
                 </LinearLayout>
 

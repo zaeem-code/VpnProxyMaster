@@ -12,7 +12,7 @@ public class Constant {
 
 
 
-    public static final String UpgradePro = "VPNPrxyMaster"; //Please put something different for example you can put your app name here without spaces
+    public static final String UpgradePro = "VPNPrxyMaster";
     private static final String PREF_NAME = "snow-intro-slider";
 
     private static final String IS_FIRST_TIME_LAUNCH = "IsFirstTimeLaunch";

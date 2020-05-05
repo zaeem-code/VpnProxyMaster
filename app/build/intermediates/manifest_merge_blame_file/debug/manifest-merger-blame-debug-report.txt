@@ -6,327 +6,326 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
-8-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml
+8-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="27" />
-9-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml
+9-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-11-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:6:5-76
-11-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:6:22-73
+11-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:6:5-76
+11-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:6:22-73
 12    <uses-permission android:name="android.permission.BLUETOOTH" />
-12-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:7:5-68
-12-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:7:22-65
+12-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:7:5-68
+12-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:7:22-65
 13    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
-13-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:8:5-74
-13-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:8:22-71
+13-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:8:5-74
+13-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:8:22-71
 14    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
-14-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:9:5-76
-14-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:9:22-73
+14-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:9:5-76
+14-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:9:22-73
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:10:5-67
-15-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:10:22-64
+15-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:10:5-67
+15-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:10:22-64
 16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-16-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:11:5-79
-16-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:11:22-76
+16-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:11:5-79
+16-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:11:22-76
 17    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-17-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:12:5-81
-17-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:12:22-78
+17-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:12:5-81
+17-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:12:22-78
 18    <uses-permission android:name="android.permission.ACCESS_NOTIFICATION_POLICY" />
-18-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:13:5-85
-18-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:13:22-82
+18-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:13:5-85
+18-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:13:22-82
 19    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-19-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:14:5-77
-19-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:14:22-74
+19-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:14:5-77
+19-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:14:22-74
 20    <uses-permission android:name="android.permission.WAKE_LOCK" />
-20-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:15:5-68
-20-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:15:22-65
+20-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:15:5-68
+20-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:15:22-65
 21    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
-21-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:16:5-78
-21-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:16:22-75
+21-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:16:5-78
+21-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:16:22-75
 22    <uses-permission android:name="com.android.vending.BILLING" />
-22-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:17:5-67
-22-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:17:22-64
+22-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:17:5-67
+22-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:17:22-64
 23    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
-23-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:18:5-84
-23-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:18:22-81
+23-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:18:5-84
+23-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:18:22-81
 24    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
-24-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:19:5-21:47
-24-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:20:9-57
+24-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:19:5-21:47
+24-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:20:9-57
 25    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
-25-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:22:5-78
-25-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:22:22-75
+25-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:22:5-78
+25-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:22:22-75
 26
 27    <!-- Required by older versions of Google Play services to create IID tokens -->
 28    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-28-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:26:5-82
-28-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:26:22-79
+28-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:26:5-82
+28-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:26:22-79
 29
 30    <application
-30-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:24:5-96:19
+30-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:24:5-96:19
 31        android:name="com.vpn.technology.AppController"
-31-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:25:9-38
+31-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:25:9-38
 32        android:allowBackup="true"
-32-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:26:9-35
+32-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:26:9-35
 33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-33-->[androidx.core:core:1.2.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\b8d4f275bec3f3edcbb739dc4dc6c4e8\core-1.2.0\AndroidManifest.xml:24:18-86
+33-->[androidx.core:core:1.2.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\c6f4260131458ccd0b15b1a20cb8065e\core-1.2.0\AndroidManifest.xml:24:18-86
 34        android:debuggable="true"
 35        android:hardwareAccelerated="false"
-35-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:27:9-44
+35-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:27:9-44
 36        android:icon="@mipmap/ic_launcher"
-36-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:28:9-43
+36-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:28:9-43
 37        android:label="@string/app_name"
-37-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:29:9-41
+37-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:29:9-41
 38        android:largeHeap="true"
-38-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:30:9-33
+38-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:30:9-33
 39        android:supportsRtl="true"
-39-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:31:9-35
-40        android:testOnly="true"
-41        android:theme="@style/AppTheme" >
-41-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:32:9-40
-42        <activity android:name="com.vpn.technology.activity.ServerListActivity" />
-42-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:34:9-74
-42-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:34:19-62
-43        <activity android:name="com.vpn.technology.activity.contactus" />
-43-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:35:9-65
-43-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:35:19-53
-44        <activity android:name="com.vpn.technology.activity.about" />
-44-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:36:9-51
-44-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:36:19-49
-45        <activity
-45-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:37:9-52:20
-46            android:name="com.vpn.technology.activity.SplashActivity"
-46-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:38:13-52
-47            android:noHistory="true"
-47-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:39:13-37
-48            android:theme="@style/Splash" >
-48-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:40:13-42
-49            <intent-filter>
-49-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:45:13-48:29
-50                <action android:name="android.intent.action.MAIN" />
-50-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:46:17-69
-50-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:46:25-66
-51
-52                <category android:name="android.intent.category.LAUNCHER" />
-52-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:47:17-77
-52-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:47:27-74
-53            </intent-filter>
-54        </activity>
-55        <activity
-55-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:53:9-55:32
-56            android:name="com.vpn.technology.activity.MainActivity"
-56-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:54:13-50
-57            android:label="" />
-57-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:55:13-29
-58        <activity android:name="com.vpn.technology.activity.VPNListActivity" />
-58-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:56:9-62
-58-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:56:19-59
-59        <activity
-59-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:57:9-59:46
-60            android:name="com.vpn.technology.activity.VPNInfoActivity"
-60-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:58:13-53
-61            android:launchMode="singleTop" />
-61-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:59:13-43
-62        <activity
-62-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:60:9-63:40
-63            android:name="com.vpn.technology.activity.SettingsActivity"
-63-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:61:13-54
-64            android:label="@string/action_settings"
-64-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:62:13-52
-65            android:noHistory="true" />
-65-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:63:13-37
-66
-67        <service
-67-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:65:9-71:19
-68            android:name="de.blinkt.openvpn.core.OpenVPNService"
-68-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:66:13-65
-69            android:permission="android.permission.BIND_VPN_SERVICE" >
-69-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:67:13-69
-70            <intent-filter>
-70-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:68:13-70:29
-71                <action android:name="android.net.VpnService" />
-71-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:69:17-65
-71-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:69:25-62
-72            </intent-filter>
-73        </service>
-74
-75        <activity
-75-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:73:9-76:64
-76            android:name="com.google.android.gms.ads.AdActivity"
-76-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:74:13-65
-77            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-77-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:75:13-122
-78            android:exported="false"
-78-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\6dac92ed412a20966bb645d7fd776fe1\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:32:13-37
-79            android:theme="@android:style/Theme.Translucent" />
-79-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:76:13-61
-80
-81        <meta-data
-81-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:78:9-80:69
-82            android:name="com.google.android.gms.version"
-82-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:79:13-58
-83            android:value="@integer/google_play_services_version" />
-83-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:80:13-66
-84        <meta-data
-84-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:81:9-83:52
-85            android:name="com.google.android.gms.ads.APPLICATION_ID"
-85-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:82:13-69
-86            android:value="@string/admob_app_id" />
-86-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:83:13-49
-87
-88        <service android:name="com.vpn.technology.service.MyFirebaseMessagingService" >
-88-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:85:9-89:19
-88-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:85:18-68
-89            <intent-filter>
-89-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:86:13-88:29
-90                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-90-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:17-78
-90-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:25-75
-91            </intent-filter>
-92        </service>
-93        <service android:name="com.vpn.technology.service.MyFirebaseInstanceIDService" >
-93-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:90:9-94:19
-93-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:90:18-69
-94            <intent-filter>
-94-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:91:13-93:29
-95                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-95-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:17-80
-95-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:25-77
-96            </intent-filter>
-97        </service>
-98
-99        <!--
-100             FirebaseMessagingService performs security checks at runtime,
-101             no need for explicit permissions despite exported="true"
-102        -->
-103        <service
-103-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\b1ce48316073f971bdfe6cf3d0e33605\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
-104            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-104-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\b1ce48316073f971bdfe6cf3d0e33605\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
-105            android:exported="true" >
-105-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\b1ce48316073f971bdfe6cf3d0e33605\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
-106            <intent-filter android:priority="-500" >
-106-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:86:13-88:29
-107                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-107-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:17-78
-107-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:25-75
-108            </intent-filter>
-109        </service>
-110
-111        <provider
-111-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\6dac92ed412a20966bb645d7fd776fe1\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:35:9-39:39
-112            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
-112-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\6dac92ed412a20966bb645d7fd776fe1\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:36:13-76
-113            android:authorities="com.vpn.technology.mobileadsinitprovider"
-113-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\6dac92ed412a20966bb645d7fd776fe1\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:37:13-73
-114            android:exported="false"
-114-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\6dac92ed412a20966bb645d7fd776fe1\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:38:13-37
-115            android:initOrder="100" />
-115-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\6dac92ed412a20966bb645d7fd776fe1\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:39:13-36
-116
-117        <service
-117-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
-118            android:name="com.google.firebase.components.ComponentDiscoveryService"
-118-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:30:13-84
-119            android:exported="false" >
-119-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:31:13-37
-120            <meta-data
-120-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
-121                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
-121-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
-122                android:value="com.google.firebase.components.ComponentRegistrar" />
-122-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
-123        </service>
-124
-125        <receiver
-125-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
-126            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-126-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
-127            android:exported="true"
-127-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
-128            android:permission="com.google.android.c2dm.permission.SEND" >
-128-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
-129            <intent-filter>
-129-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
-130                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-130-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
-130-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
-131            </intent-filter>
-132        </receiver>
-133        <!--
-134             FirebaseInstanceIdService performs security checks at runtime,
-135             no need for explicit permissions despite exported="true"
-136        -->
-137        <service
-137-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
-138            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-138-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
-139            android:exported="true" >
-139-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\7104f377c31cdc63c21f10fb220c8c99\jetified-firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
-140            <intent-filter android:priority="-500" >
-140-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:91:13-93:29
-141                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-141-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:17-80
-141-->C:\Users\hassan\Desktop\Android_projects\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:25-77
-142            </intent-filter>
-143        </service>
-144
-145        <provider
-145-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\0a9031e92db0680aff7941b3ca61ac07\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
-146            android:name="com.google.firebase.provider.FirebaseInitProvider"
-146-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\0a9031e92db0680aff7941b3ca61ac07\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
-147            android:authorities="com.vpn.technology.firebaseinitprovider"
-147-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\0a9031e92db0680aff7941b3ca61ac07\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
-148            android:exported="false"
-148-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\0a9031e92db0680aff7941b3ca61ac07\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
-149            android:initOrder="100" />
-149-->[com.google.firebase:firebase-common:16.0.3] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\0a9031e92db0680aff7941b3ca61ac07\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
-150
-151        <activity
-151-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\cf5af6c2725c342b856192a4d774ef64\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
-152            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-152-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\cf5af6c2725c342b856192a4d774ef64\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
-153            android:exported="false"
-153-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\cf5af6c2725c342b856192a4d774ef64\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
-154            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-154-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\cf5af6c2725c342b856192a4d774ef64\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
-155
-156        <provider
-156-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\c6d72ccd5888ea64ec3c29bc011bb478\jetified-tray-0.12.0\AndroidManifest.xml:12:9-16:44
-157            android:name="net.grandcentrix.tray.provider.TrayContentProvider"
-157-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\c6d72ccd5888ea64ec3c29bc011bb478\jetified-tray-0.12.0\AndroidManifest.xml:13:13-78
-158            android:authorities="com.vpn.technology.tray"
-158-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\c6d72ccd5888ea64ec3c29bc011bb478\jetified-tray-0.12.0\AndroidManifest.xml:14:13-56
-159            android:exported="false"
-159-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\c6d72ccd5888ea64ec3c29bc011bb478\jetified-tray-0.12.0\AndroidManifest.xml:15:13-37
-160            android:multiprocess="false" />
-160-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\c6d72ccd5888ea64ec3c29bc011bb478\jetified-tray-0.12.0\AndroidManifest.xml:16:13-41
-161
-162        <meta-data
-162-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:13:9-15:37
-163            android:name="com.google.android.play.billingclient.version"
-163-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:14:13-73
-164            android:value="2.0.1" />
-164-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:15:13-34
-165
-166        <activity
-166-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:17:9-20:75
-167            android:name="com.android.billingclient.api.ProxyBillingActivity"
-167-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:18:13-78
-168            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-168-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:19:13-96
-169            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-169-->[com.android.billingclient:billing:2.0.1] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\e04424600f2f5585e85bfd9b86e41317\jetified-billing-2.0.1\AndroidManifest.xml:20:13-72
-170
-171        <provider
-171-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\63abdec615b94d600af0ddde9e9d5d0d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
-172            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
-172-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\63abdec615b94d600af0ddde9e9d5d0d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
-173            android:authorities="com.vpn.technology.lifecycle-process"
-173-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\63abdec615b94d600af0ddde9e9d5d0d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
-174            android:exported="false"
-174-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\63abdec615b94d600af0ddde9e9d5d0d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
-175            android:multiprocess="true" />
-175-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\hassan\.gradle\caches\transforms-2\files-2.1\63abdec615b94d600af0ddde9e9d5d0d\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
-176    </application>
-177
-178</manifest>
+39-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:31:9-35
+40        android:theme="@style/AppTheme" >
+40-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:32:9-40
+41        <activity android:name="com.vpn.technology.activity.ServerListActivity" />
+41-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:34:9-74
+41-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:34:19-62
+42        <activity android:name="com.vpn.technology.activity.contactus" />
+42-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:35:9-65
+42-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:35:19-53
+43        <activity android:name="com.vpn.technology.activity.about" />
+43-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:36:9-51
+43-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:36:19-49
+44        <activity
+44-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:37:9-52:20
+45            android:name="com.vpn.technology.activity.SplashActivity"
+45-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:38:13-52
+46            android:noHistory="true"
+46-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:39:13-37
+47            android:theme="@style/Splash" >
+47-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:40:13-42
+48            <intent-filter>
+48-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:45:13-48:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:46:17-69
+49-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:46:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:47:17-77
+51-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:47:27-74
+52            </intent-filter>
+53        </activity>
+54        <activity
+54-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:53:9-55:32
+55            android:name="com.vpn.technology.activity.MainActivity"
+55-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:54:13-50
+56            android:label="" />
+56-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:55:13-29
+57        <activity android:name="com.vpn.technology.activity.VPNListActivity" />
+57-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:56:9-62
+57-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:56:19-59
+58        <activity
+58-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:57:9-59:46
+59            android:name="com.vpn.technology.activity.VPNInfoActivity"
+59-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:58:13-53
+60            android:launchMode="singleTop" />
+60-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:59:13-43
+61        <activity
+61-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:60:9-63:40
+62            android:name="com.vpn.technology.activity.SettingsActivity"
+62-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:61:13-54
+63            android:label="@string/action_settings"
+63-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:62:13-52
+64            android:noHistory="true" />
+64-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:63:13-37
+65
+66        <service
+66-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:65:9-71:19
+67            android:name="de.blinkt.openvpn.core.OpenVPNService"
+67-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:66:13-65
+68            android:permission="android.permission.BIND_VPN_SERVICE" >
+68-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:67:13-69
+69            <intent-filter>
+69-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:68:13-70:29
+70                <action android:name="android.net.VpnService" />
+70-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:69:17-65
+70-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:69:25-62
+71            </intent-filter>
+72        </service>
+73
+74        <activity
+74-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:73:9-76:64
+75            android:name="com.google.android.gms.ads.AdActivity"
+75-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:74:13-65
+76            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+76-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:75:13-122
+77            android:exported="false"
+77-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\ec1e9f716c7825f5b8c72b71d34ff6c3\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:32:13-37
+78            android:theme="@android:style/Theme.Translucent" />
+78-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:76:13-61
+79
+80        <meta-data
+80-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:78:9-80:69
+81            android:name="com.google.android.gms.version"
+81-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:79:13-58
+82            android:value="@integer/google_play_services_version" />
+82-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:80:13-66
+83        <meta-data
+83-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:81:9-83:52
+84            android:name="com.google.android.gms.ads.APPLICATION_ID"
+84-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:82:13-69
+85            android:value="@string/admob_app_id" />
+85-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:83:13-49
+86
+87        <service android:name="com.vpn.technology.service.MyFirebaseMessagingService" >
+87-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:85:9-89:19
+87-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:85:18-68
+88            <intent-filter>
+88-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:86:13-88:29
+89                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+89-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:17-78
+89-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:25-75
+90            </intent-filter>
+91        </service>
+92        <service android:name="com.vpn.technology.service.MyFirebaseInstanceIDService" >
+92-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:90:9-94:19
+92-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:90:18-69
+93            <intent-filter>
+93-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:91:13-93:29
+94                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+94-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:17-80
+94-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:25-77
+95            </intent-filter>
+96        </service>
+97
+98        <!--
+99             FirebaseMessagingService performs security checks at runtime,
+100             no need for explicit permissions despite exported="true"
+101        -->
+102        <service
+102-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\7251659cf2155d5e657f0e78421744d6\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:28:9-34:19
+103            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+103-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\7251659cf2155d5e657f0e78421744d6\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:29:13-82
+104            android:exported="true" >
+104-->[com.google.firebase:firebase-messaging:17.3.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\7251659cf2155d5e657f0e78421744d6\jetified-firebase-messaging-17.3.4\AndroidManifest.xml:30:13-36
+105            <intent-filter android:priority="-500" >
+105-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:86:13-88:29
+106                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+106-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:17-78
+106-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:87:25-75
+107            </intent-filter>
+108        </service>
+109
+110        <provider
+110-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\ec1e9f716c7825f5b8c72b71d34ff6c3\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:35:9-39:39
+111            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+111-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\ec1e9f716c7825f5b8c72b71d34ff6c3\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:36:13-76
+112            android:authorities="com.vpn.technology.mobileadsinitprovider"
+112-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\ec1e9f716c7825f5b8c72b71d34ff6c3\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:37:13-73
+113            android:exported="false"
+113-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\ec1e9f716c7825f5b8c72b71d34ff6c3\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:38:13-37
+114            android:initOrder="100" />
+114-->[com.google.android.gms:play-services-ads-lite:17.1.2] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\ec1e9f716c7825f5b8c72b71d34ff6c3\jetified-play-services-ads-lite-17.1.2\AndroidManifest.xml:39:13-36
+115
+116        <service
+116-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:29:9-35:19
+117            android:name="com.google.firebase.components.ComponentDiscoveryService"
+117-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:30:13-84
+118            android:exported="false" >
+118-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:31:13-37
+119            <meta-data
+119-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:32:13-34:85
+120                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+120-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:33:17-96
+121                android:value="com.google.firebase.components.ComponentRegistrar" />
+121-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:34:17-82
+122        </service>
+123
+124        <receiver
+124-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:37:9-44:20
+125            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+125-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:38:13-78
+126            android:exported="true"
+126-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:39:13-36
+127            android:permission="com.google.android.c2dm.permission.SEND" >
+127-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:40:13-73
+128            <intent-filter>
+128-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:41:13-43:29
+129                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+129-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:42:17-81
+129-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:42:25-78
+130            </intent-filter>
+131        </receiver>
+132        <!--
+133             FirebaseInstanceIdService performs security checks at runtime,
+134             no need for explicit permissions despite exported="true"
+135        -->
+136        <service
+136-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:50:9-56:19
+137            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+137-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:51:13-77
+138            android:exported="true" >
+138-->[com.google.firebase:firebase-iid:17.0.4] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\f3d0c18df4accce760316ce88264b688\jetified-firebase-iid-17.0.4\AndroidManifest.xml:52:13-36
+139            <intent-filter android:priority="-500" >
+139-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:91:13-93:29
+140                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+140-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:17-80
+140-->E:\app 2020\VpnProxyMaster\app\src\main\AndroidManifest.xml:92:25-77
+141            </intent-filter>
+142        </service>
+143
+144        <provider
+144-->[com.google.firebase:firebase-common:16.0.3] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6895baa08d00e3890470dd23849cffa7\jetified-firebase-common-16.0.3\AndroidManifest.xml:10:9-14:39
+145            android:name="com.google.firebase.provider.FirebaseInitProvider"
+145-->[com.google.firebase:firebase-common:16.0.3] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6895baa08d00e3890470dd23849cffa7\jetified-firebase-common-16.0.3\AndroidManifest.xml:11:13-77
+146            android:authorities="com.vpn.technology.firebaseinitprovider"
+146-->[com.google.firebase:firebase-common:16.0.3] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6895baa08d00e3890470dd23849cffa7\jetified-firebase-common-16.0.3\AndroidManifest.xml:12:13-72
+147            android:exported="false"
+147-->[com.google.firebase:firebase-common:16.0.3] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6895baa08d00e3890470dd23849cffa7\jetified-firebase-common-16.0.3\AndroidManifest.xml:13:13-37
+148            android:initOrder="100" />
+148-->[com.google.firebase:firebase-common:16.0.3] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6895baa08d00e3890470dd23849cffa7\jetified-firebase-common-16.0.3\AndroidManifest.xml:14:13-36
+149
+150        <activity
+150-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6268df0a76e7224bc2dcae91c1211e5e\jetified-play-services-base-16.0.1\AndroidManifest.xml:23:9-26:75
+151            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+151-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6268df0a76e7224bc2dcae91c1211e5e\jetified-play-services-base-16.0.1\AndroidManifest.xml:24:13-79
+152            android:exported="false"
+152-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6268df0a76e7224bc2dcae91c1211e5e\jetified-play-services-base-16.0.1\AndroidManifest.xml:25:13-37
+153            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+153-->[com.google.android.gms:play-services-base:16.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\6268df0a76e7224bc2dcae91c1211e5e\jetified-play-services-base-16.0.1\AndroidManifest.xml:26:13-72
+154
+155        <provider
+155-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\9460fa7b0b161abe9aa004d3b4392c70\jetified-tray-0.12.0\AndroidManifest.xml:12:9-16:44
+156            android:name="net.grandcentrix.tray.provider.TrayContentProvider"
+156-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\9460fa7b0b161abe9aa004d3b4392c70\jetified-tray-0.12.0\AndroidManifest.xml:13:13-78
+157            android:authorities="com.vpn.technology.tray"
+157-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\9460fa7b0b161abe9aa004d3b4392c70\jetified-tray-0.12.0\AndroidManifest.xml:14:13-56
+158            android:exported="false"
+158-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\9460fa7b0b161abe9aa004d3b4392c70\jetified-tray-0.12.0\AndroidManifest.xml:15:13-37
+159            android:multiprocess="false" />
+159-->[net.grandcentrix.tray:tray:0.12.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\9460fa7b0b161abe9aa004d3b4392c70\jetified-tray-0.12.0\AndroidManifest.xml:16:13-41
+160
+161        <meta-data
+161-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:13:9-15:37
+162            android:name="com.google.android.play.billingclient.version"
+162-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:14:13-73
+163            android:value="2.0.1" />
+163-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:15:13-34
+164
+165        <activity
+165-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:17:9-20:75
+166            android:name="com.android.billingclient.api.ProxyBillingActivity"
+166-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:18:13-78
+167            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+167-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:19:13-96
+168            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+168-->[com.android.billingclient:billing:2.0.1] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\1da34f1512302b940cbfce1947a8fd25\jetified-billing-2.0.1\AndroidManifest.xml:20:13-72
+169
+170        <provider
+170-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:23:9-27:43
+171            android:name="androidx.lifecycle.ProcessLifecycleOwnerInitializer"
+171-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:24:13-79
+172            android:authorities="com.vpn.technology.lifecycle-process"
+172-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:25:13-69
+173            android:exported="false"
+173-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:26:13-37
+174            android:multiprocess="true" />
+174-->[androidx.lifecycle:lifecycle-process:2.0.0] C:\Users\laptop\.gradle\caches\transforms-2\files-2.1\05159317f21a2dd1d02987b6e5d9b612\jetified-lifecycle-process-2.0.0\AndroidManifest.xml:27:13-40
+175    </application>
+176
+177</manifest>

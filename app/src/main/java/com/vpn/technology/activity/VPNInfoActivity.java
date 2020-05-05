@@ -194,15 +194,15 @@ public class VPNInfoActivity extends BaseActivity {
     private void initView(Intent intent) {
 
 
-        TextView button2 = (TextView) findViewById(R.id.homeBtnChooseCountry);
-        button2.setOnClickListener(new View.OnClickListener() {
-
-            public void onClick(View v) {
-                sendTouchButton("homeBtnChooseCountry");
-                chooseCountry();
-
-            }
-        });
+//        TextView button2 = (TextView) findViewById(R.id.homeBtnChooseCountry);
+//        button2.setOnClickListener(new View.OnClickListener() {
+//
+//            public void onClick(View v) {
+//                sendTouchButton("homeBtnChooseCountry");
+//                chooseCountry();
+//
+//            }
+//        });
 
 
         autoConnection = intent.getBooleanExtra("autoConnection", false);

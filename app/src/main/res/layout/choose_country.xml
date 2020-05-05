@@ -27,7 +27,6 @@ android:textStyle="bold"
         android:paddingTop="@dimen/activity_vertical_margin"
 
         android:id="@+id/homeCountryList"
-         android:background="@android:color/white"
         android:layout_width="match_parent"
 
         android:layout_height="wrap_content"

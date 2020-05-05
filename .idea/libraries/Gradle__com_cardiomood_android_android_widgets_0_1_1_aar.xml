@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.cardiomood.android:android-widgets:0.1.1@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b54d8288d4657eca77290abc79ee9a3/jetified-android-widgets-0.1.1/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b54d8288d4657eca77290abc79ee9a3/jetified-android-widgets-0.1.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41a1924cb6efefb32d8bc187b40398c0/jetified-android-widgets-0.1.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/41a1924cb6efefb32d8bc187b40398c0/jetified-android-widgets-0.1.1/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cardiomood.android/android-widgets/0.1.1/3ef7e4dcb7a72726e09d943ff0dd2404b59207b6/android-widgets-0.1.1-javadoc.jar!/" />

@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="Gradle: com.zys:brokenview:1.0.3@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7242828f6c582cdedaad9575cfb8aa22/jetified-brokenview-1.0.3/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7242828f6c582cdedaad9575cfb8aa22/jetified-brokenview-1.0.3/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/560a0b43b642f2237f719ccb2b737180/jetified-brokenview-1.0.3/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/560a0b43b642f2237f719ccb2b737180/jetified-brokenview-1.0.3/res" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.zys/brokenview/1.0.3/408c7043de0f0e37af6fb0bb8fd6ec79c12be19d/brokenview-1.0.3-javadoc.jar!/" />

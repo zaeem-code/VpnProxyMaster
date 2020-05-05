@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/VpnProxyMaster.iml" filepath="$PROJECT_DIR$/VpnProxyMaster.iml" group="VpnProxyMaster" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="VpnProxyMaster/app" />
+      <module fileurl="file://$PROJECT_DIR$/app 2020-VpnProxyMaster.iml" filepath="$PROJECT_DIR$/app 2020-VpnProxyMaster.iml" group="VpnProxyMaster" />
     </modules>
   </component>
 </project>

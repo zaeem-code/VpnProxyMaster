@@ -24,11 +24,11 @@
             app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
             app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
 
-        <androidx.cardview.widget.CardView
+        <RelativeLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            app:cardCornerRadius="22dp"
-            app:cardElevation="6dp">
+            android:background="@drawable/corner"
+            >
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -38,7 +38,7 @@
                 <RelativeLayout
                     android:id="@+id/bg"
                     android:layout_width="match_parent"
-                    android:layout_height="150dp">
+                    android:layout_height="250dp">
 
 
                     <de.hdodenhof.circleimageview.CircleImageView xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -118,13 +118,31 @@
                     <View
                         android:layout_width="match_parent"
                         android:layout_height="2dp"
+                        android:id="@+id/v"
                         android:layout_alignParentStart="true"
                         android:layout_alignParentLeft="true"
                         android:layout_alignParentTop="true"
                         android:layout_marginStart="0dp"
                         android:layout_marginLeft="0dp"
-                        android:layout_marginTop="134dp"
+                        android:layout_marginTop="174dp"
                         android:background="@color/additionalServer" />
+
+
+
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:text="Server Avail"
+                        android:layout_marginTop="190dp"
+                        android:textColor="@color/additionalServer"
+                        android:textSize="22sp"
+                        android:textAlignment="center"
+                         />
+
+
+
+
 
                 </RelativeLayout>
 
@@ -167,7 +185,7 @@
                         android:dividerHeight="1dp" />
                 </RelativeLayout>
             </LinearLayout>
-        </androidx.cardview.widget.CardView>
+        </RelativeLayout>
     </LinearLayout>
 
     <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"

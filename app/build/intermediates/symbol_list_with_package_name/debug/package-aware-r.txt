@@ -3128,9 +3128,6 @@ id serverStatus
 id serverTrafficInTotally
 id serverTrafficOutTotally
 id serveropen
-id settingimg
-id settinglyt
-id settingtxt
 id shareimg
 id sharelyt
 id sharetxt
@@ -3232,6 +3229,7 @@ id uniform
 id unlabeled
 id up
 id useLogo
+id v
 id version_code
 id version_name
 id vertical
@@ -3424,14 +3422,9 @@ layout text_view_without_line_height
 layout vpn_row
 menu activity_drawer
 menu menu_main
-mipmap bg_inner_charge_booster
-mipmap bg_outer_shadow
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
-mipmap ic_pie_bg
-mipmap ic_rounded_shadow
-mipmap waves
 plurals mtrl_badge_content_description
 raw book
 raw colorline

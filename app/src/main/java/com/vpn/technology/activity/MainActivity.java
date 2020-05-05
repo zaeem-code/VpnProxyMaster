@@ -63,8 +63,8 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
 //        findViewById(R.id.flag).setOnClickListener(this);
 //        findViewById(R.id.lyt).setOnClickListener(this);
 
-        settingtxtimg=findViewById(R.id.settingimg);
-        settingtxtimg.setOnClickListener(this);
+//        settingtxtimg=findViewById(R.id.settingimg);
+//        settingtxtimg.setOnClickListener(this);
 
         contacttxtimg=findViewById(R.id.contactusimg);
         contacttxtimg.setOnClickListener(this);
@@ -79,8 +79,8 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         abouttxtimg.setOnClickListener(this);
 
 
-        settinglyt=findViewById(R.id.settinglyt); settinglyt.setOnClickListener(this);
-        settingtxt=findViewById(R.id.settingtxt); settingtxt.setOnClickListener(this);
+//        settinglyt=findViewById(R.id.settinglyt); settinglyt.setOnClickListener(this);
+//        settingtxt=findViewById(R.id.settingtxt); settingtxt.setOnClickListener(this);
 
         conactuslyt=findViewById(R.id.contactuslyt); conactuslyt.setOnClickListener(this);
         contacttxt=findViewById(R.id.contactustxt); contacttxt.setOnClickListener(this);
@@ -106,7 +106,14 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
             public void onClick(View v) {
 
 
-
+                sendTouchButton("homeBtnRandomConnection");
+                Server randomServer = getRandomServer();
+                if (randomServer != null) {
+                    newConnecting(randomServer, true, true);
+                } else {
+                    String randomError = String.format(getResources().getString(R.string.error_random_country), PropertiesService.getSelectedCountry());
+                    Toast.makeText(MainActivity.this, randomError, Toast.LENGTH_LONG).show();
+                }
 
             }
         });
@@ -164,45 +171,31 @@ public class MainActivity extends BaseActivity implements View.OnClickListener {
         switch (v.getId())
         {
 
-            case R.id.connect:
-                sendTouchButton("homeBtnRandomConnection");
-                Server randomServer = getRandomServer();
-                if (randomServer != null) {
-                    newConnecting(randomServer, true, true);
-                } else {
-                    String randomError = String.format(getResources().getString(R.string.error_random_country), PropertiesService.getSelectedCountry());
-                    Toast.makeText(MainActivity.this, randomError, Toast.LENGTH_LONG).show();
-                }
-                break;
 
-//            case R.id.flag:
-//            case R.id.lyt:
-//                startActivity(new Intent(this,ServerList.class));
+
+//            case R.id.settinglyt:
+//            case R.id.settingtxt:
+//            case R.id.settingimg:
+//
+//                settingtxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.default_color, null));
+//                contacttxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
+//                sharetxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
+//                ratustxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
+//                abouttxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
+//
+//
+//
+//
+//                ImageViewCompat.setImageTintList(settingtxtimg, ColorStateList.valueOf((ContextCompat.getColor(getApplicationContext(), R.color.default_color))));
+//                ImageViewCompat.setImageTintList(contacttxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
+//                ImageViewCompat.setImageTintList(sharetxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
+//                ImageViewCompat.setImageTintList(ratustxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
+//                ImageViewCompat.setImageTintList(abouttxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
+//                sendTouchButton("Settings");
+////                startActivity(new Intent(this, SettingsActivity.class));
+//
+//
 //                break;
-
-            case R.id.settinglyt:
-            case R.id.settingtxt:
-            case R.id.settingimg:
-
-                settingtxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.default_color, null));
-                contacttxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
-                sharetxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
-                ratustxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
-                abouttxt.setTextColor(ResourcesCompat.getColor(getResources(),R.color.black, null));
-
-
-
-
-                ImageViewCompat.setImageTintList(settingtxtimg, ColorStateList.valueOf((ContextCompat.getColor(getApplicationContext(), R.color.default_color))));
-                ImageViewCompat.setImageTintList(contacttxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
-                ImageViewCompat.setImageTintList(sharetxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
-                ImageViewCompat.setImageTintList(ratustxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
-                ImageViewCompat.setImageTintList(abouttxtimg, ColorStateList.valueOf(ContextCompat.getColor(getApplicationContext(), R.color.black)));
-                sendTouchButton("Settings");
-                startActivity(new Intent(this, SettingsActivity.class));
-
-
-                break;
 
 
 
