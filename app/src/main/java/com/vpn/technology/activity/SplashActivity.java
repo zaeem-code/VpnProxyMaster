@@ -48,7 +48,7 @@ public class SplashActivity extends BaseActivity {
 
     private int percentDownload = 0;
     private Stopwatch stopwatch;
-
+String game;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
